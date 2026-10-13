@@ -1,0 +1,9 @@
+{
+  "name": "weekly-pace",
+  "version": "0.1.0",
+  "description": "Shows your weekly usage pace above the Claude Code prompt",
+  "author": { "name": "shiro-el" },
+  "repository": "https://github.com/shiro-el/weekly-pace",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

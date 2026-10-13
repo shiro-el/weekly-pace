@@ -1,0 +1,6 @@
+{
+  "name": "weekly-pace",
+  "owner": { "name": "shiro-el" },
+  "description": "Weekly usage pace band for Claude Code",
+  "plugins": [{ "name": "weekly-pace", "source": "./" }]
+}
